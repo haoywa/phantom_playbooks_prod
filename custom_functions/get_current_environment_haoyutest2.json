@@ -1,0 +1,17 @@
+{
+    "create_time": "2023-10-04T05:45:20.575593+00:00",
+    "custom_function_id": "f66da52ab9dc2fc7db1c8169af53487d5ec85476",
+    "description": "Returns the current running environment (phantom-dev.transurban.com or phantom.transurban.com) to allow swapping test/prod variables automatically in playbooks.",
+    "draft_mode": false,
+    "inputs": [],
+    "outputs": [
+        {
+            "contains_type": [],
+            "data_path": "environment",
+            "description": ""
+        }
+    ],
+    "outputs_type": "item",
+    "platform_version": "6.1.1.211",
+    "python_version": "3"
+}
